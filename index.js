@@ -13,3 +13,7 @@ number // 5
 --number // 4
 ++number // 5
 
+number += 3 // 8
+
+number -= 2 // 3 
+
