@@ -17,3 +17,7 @@ number += 3 // 8
 
 number -= 2 // 3 
 
+number *= 10 // 50
+
+number /= 5 // 1
+
